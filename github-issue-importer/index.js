@@ -6,9 +6,12 @@ const axios = require('axios')
 // FILL IN THE IDS HERE
 //////////////////////////////////
 const appConfig = {
-  boardId: '',
-  inboxFrameId: '',
+  boardId: 'o9J_ki0JSIE=',
+  inboxFrameId: '3074457350710677489',
 }
+
+//https://miro.com/app/board/o9J_ki0JSIE=/?moveToWidget=3074457350710677489&cot=12
+
 //////////////////////////////////
 // FILL IN THE IDS HERE
 //////////////////////////////////
